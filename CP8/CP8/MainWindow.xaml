@@ -1,0 +1,32 @@
+﻿<Window x:Class="CP8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Анимации WPF" Height="590" Width="700">
+    <StackPanel Margin="20" HorizontalAlignment="Center">
+        <Button x:Name="AnimatedButton" Content="Анимировать ширину" Width="150" Height="40" Margin="0,0,0,20" Click="AnimatedButton_Click"/>
+        <!-- Для задания 2 -->
+        <Canvas Height="120" Margin="0,0,0,20">
+            <Rectangle x:Name="AnimatedRect" Width="60" Height="60" Fill="SteelBlue" RadiusX="10" RadiusY="10"/>
+        </Canvas>
+        <!-- Для задания 4 -->
+        <Canvas Height="120" Margin="0,0,0,20">
+            <Ellipse x:Name="MovingEllipse" Width="40" Height="40" Fill="Orange"/>
+        </Canvas>
+        <StackPanel Orientation="Horizontal" Margin="0,0,0,20">
+            <Button Content="Старт" Click="StartEllipseAnimation_Click" Margin="0,0,10,0"/>
+            <Button Content="Пауза" Click="PauseEllipseAnimation_Click" Margin="0,0,10,0"/>
+            <Button Content="Продолжить" Click="ResumeEllipseAnimation_Click"/>
+        </StackPanel>
+        <!-- Для задания 6 -->
+        <StackPanel>
+            <ToggleButton x:Name="MenuToggle" Content="Меню" Width="100" Height="30"/>
+            <StackPanel x:Name="DropDownMenu" Height="0" Opacity="0">
+                <Button Content="Пункт 1" Margin="0,2"/>
+                <Button Content="Пункт 2" Margin="0,2"/>
+            </StackPanel>
+        </StackPanel>
+        <!-- Для задания 3 -->
+        <Button Content="Наведи на меня" Style="{StaticResource AnimatedButtonStyle}" Margin="0,20,0,0"/>
+        <TextBox Width="200" Height="30" Style="{StaticResource AnimatedTextBoxStyle}" Margin="0,10,0,0"/>
+    </StackPanel>
+</Window>

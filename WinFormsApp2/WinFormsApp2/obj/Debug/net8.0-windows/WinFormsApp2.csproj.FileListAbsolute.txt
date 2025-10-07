@@ -1,0 +1,17 @@
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.sourcelink.json
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+D:\Study\3_Course\2_Semester\College-projects_3.2\WPF\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll

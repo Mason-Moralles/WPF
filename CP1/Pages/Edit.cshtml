@@ -1,0 +1,17 @@
+@page
+@model EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+<h2>Редактировать сообщение</h2>
+<form method="post">
+    <input type="text" asp-for="Message" placeholder="Введите сообщение" />
+    <button type="submit">Отправить</button>
+</form>
+
+@if (Model.IsPosted)
+{
+    <div>
+        <strong>Отправленное сообщение:</strong> @Model.Message
+    </div>
+}

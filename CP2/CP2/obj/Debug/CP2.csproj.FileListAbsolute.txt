@@ -1,0 +1,11 @@
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\bin\Debug\CP2.exe.config
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\bin\Debug\CP2.exe
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\bin\Debug\CP2.pdb
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.csproj.AssemblyReference.cache
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.Properties.Resources.resources
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.csproj.GenerateResource.cache
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.csproj.CoreCompileInputs.cache
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.exe
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.pdb
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.exe.config
+D:\2_Semester\College-projects_3.2\WPF\CP2\CP2\obj\Debug\CP2.Form1.resources
