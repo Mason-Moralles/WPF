@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\2_Semester\\College-projects_3.2\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
+    "D:\\2_Semester\\Retake\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {}
   },
   "projects": {
-    "D:\\2_Semester\\College-projects_3.2\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
+    "D:\\2_Semester\\Retake\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\2_Semester\\College-projects_3.2\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectUniqueName": "D:\\2_Semester\\Retake\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "projectName": "WinFormsApp1",
-        "projectPath": "D:\\2_Semester\\College-projects_3.2\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+        "projectPath": "D:\\2_Semester\\Retake\\WPF\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
         "packagesPath": "C:\\Users\\Георгий\\.nuget\\packages\\",
-        "outputPath": "D:\\2_Semester\\College-projects_3.2\\WPF\\WinFormsApp1\\WinFormsApp1\\obj\\",
+        "outputPath": "D:\\2_Semester\\Retake\\WPF\\WinFormsApp1\\WinFormsApp1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

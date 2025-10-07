@@ -1,21 +1,21 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\",
+  "WorkspaceRootPath": "D:\\2_Semester\\Retake\\WPF\\CP2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|d:\\2_semester\\college-projects_3.2\\wpf\\cp2\\cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|d:\\2_semester\\retake\\wpf\\cp2\\cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|solutionrelative:cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|d:\\2_semester\\college-projects_3.2\\wpf\\cp2\\cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|D:\\2_Semester\\Retake\\WPF\\CP2\\cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|solutionrelative:cp2\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|d:\\2_semester\\college-projects_3.2\\wpf\\cp2\\cp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|D:\\2_Semester\\Retake\\WPF\\CP2\\cp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|solutionrelative:cp2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|d:\\2_semester\\college-projects_3.2\\wpf\\cp2\\cp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|D:\\2_Semester\\Retake\\WPF\\CP2\\cp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AF287D13-509C-4954-90B6-69B8CA507D0E}|CP2\\CP2.csproj|solutionrelative:cp2\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -44,9 +44,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Form1.cs",
-              "DocumentMoniker": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.cs",
+              "DocumentMoniker": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.cs",
               "RelativeDocumentMoniker": "CP2\\Form1.cs",
-              "ToolTip": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.cs",
+              "ToolTip": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.cs",
               "RelativeToolTip": "CP2\\Form1.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAtwBUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -57,9 +57,9 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.Designer.cs",
+              "DocumentMoniker": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.Designer.cs",
               "RelativeDocumentMoniker": "CP2\\Form1.Designer.cs",
-              "ToolTip": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.Designer.cs",
+              "ToolTip": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.Designer.cs",
               "RelativeToolTip": "CP2\\Form1.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -70,22 +70,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Program.cs",
-              "DocumentMoniker": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Program.cs",
+              "DocumentMoniker": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Program.cs",
               "RelativeDocumentMoniker": "CP2\\Program.cs",
-              "ToolTip": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Program.cs",
+              "ToolTip": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Program.cs",
               "RelativeToolTip": "CP2\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-10-05T10:09:12.45Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-10-05T10:09:12.45Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.cs",
+              "DocumentMoniker": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.cs",
               "RelativeDocumentMoniker": "CP2\\Form1.cs",
-              "ToolTip": "D:\\2_Semester\\College-projects_3.2\\WPF\\CP2\\CP2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "ToolTip": "D:\\2_Semester\\Retake\\WPF\\CP2\\CP2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "RelativeToolTip": "CP2\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-10-05T10:08:03.136Z",
